@@ -1,15 +1,15 @@
 {
-	"drySha": "db9d4366ab2a21ae1b6167fa52b1f1f8c16b4a2f",
+	"drySha": "fd97780ca3a80e5e82759a68e61065d31f8d2360",
 	"author": "loadtest-hydrator \u003cloadtest@example.com\u003e",
-	"date": "2026-06-17T20:53:13Z",
-	"subject": "setup hydrated 1",
+	"date": "2026-06-17T20:53:28Z",
+	"subject": "hydrated 1",
 	"references": [
 		{
 			"commit": {
 				"author": "loadtest \u003cloadtest@example.com\u003e",
-				"date": "2026-06-17T20:53:13Z",
-				"subject": "setup hydrated 1",
-				"sha": "db9d4366ab2a21ae1b6167fa52b1f1f8c16b4a2f"
+				"date": "2026-06-17T20:53:28Z",
+				"subject": "hydrated 1",
+				"sha": "fd97780ca3a80e5e82759a68e61065d31f8d2360"
 			}
 		}
 	]
